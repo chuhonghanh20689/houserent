@@ -1,0 +1,25 @@
+{
+  "name": "packages.json",
+  "version": "1.0.0",
+  "description": "Include list plugin js",
+  "main": "apps",
+  "dependencies": {
+    "lightbox2": "^2.9.0",
+    "react-notify-toast": "^0.2.0",
+    "toastr": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/linhth_apecsoft/20_Again.git"
+  },
+  "author": "HCH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/linhth_apecsoft/20_Again/issues"
+  },
+  "homepage": "https://gitlab.com/linhth_apecsoft/20_Again#README"
+}
